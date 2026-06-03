@@ -75,22 +75,22 @@ An AI-inspired developer dashboard focused on productivity, automation concepts,
 An interactive AI/avatar web experience demonstrating creative frontend design, animations, and user interaction.
 
 **Tech Stack:** HTML, CSS, JavaScript  
-**Live Demo:** 
+**Live Demo:** https://ankitraj21805-lgtm.github.io/ankit_3d_avatar/
 
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ankitraj21805-lgtm&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ankitraj21805-lgtm&show_icons=true&theme=tokyonight&hide_border=true" alt="Ankit Sharma GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=ankitraj21805-lgtm&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ankitraj21805-lgtm&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ankitraj21805-lgtm&layout=compact&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ankitraj21805-lgtm&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </p>
 
 ---
