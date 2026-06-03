@@ -1,27 +1,127 @@
-# 💫 About Me:
-Frontend Developer focused on building fast, responsive and modern web applications.<br><br>🎓 Diploma in Computer Science Engineering<br><br>💻 Tech Stack:<br>HTML • CSS • JavaScript • React • Git • GitHub • Responsive Design<br><br>🚀 Interests:<br>Frontend Development • UI/UX Design • AI Tools • Web Applications<br><br>🌱 Currently Learning:<br>React.js • Next.js • TypeScript • AI Workflow Automation<br><br>🎯 Goal:<br>To join a product-based company and build impactful digital experiences used by thousands of users.<br><br>📫 Email: ankitraj21805@gmail.com<br>🔗 Portfolio: https://ankitraj21805-lgtm.github.io/ankit_pixel/
+<h1 align="center">Hi, I'm Ankit Sharma 👋</h1>
 
+<h3 align="center">
+Frontend Developer | Full Stack Developer | AI Automation Enthusiast
+</h3>
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ankittsharmma) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ANKIT SHARMA) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ankitraj21805@gmail.com)
-
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Sketch](https://img.shields.io/badge/Sketch-FFB387?style=for-the-badge&logo=sketch&logoColor=black) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=ankitraj21805-lgtm&theme=dark&hide_border=true&include_all_commits=false&count_private=true)<br/>
-![](https://streak-stats.demolab.com/?user=ankitraj21805-lgtm&theme=dark&hide_border=true)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=ankitraj21805-lgtm&theme=dark&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=ankitraj21805-lgtm&theme=dark&no-frame=true&no-bg=false&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=ankitraj21805-lgtm&limit=5&theme=dark&combine_all_yearly_contributions=true)
+<p align="center">
+I build fast, responsive, and modern web applications with clean UI, strong user experience, and practical automation-focused ideas.
+</p>
 
 ---
-[![](https://komarev.com/ghpvc/?username=ankitraj21805-lgtm&icon=2&color=4)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 💫 About Me
+
+- 🎓 Diploma in Computer Science Engineering
+- 💻 Frontend Developer focused on responsive and modern web applications
+- 🚀 Interested in Frontend Development, UI/UX Design, AI Tools, and Web Applications
+- 🌱 Currently learning React.js, Next.js, TypeScript, and AI Workflow Automation
+- 🎯 Goal: To join a product-based company and build impactful digital experiences used by real users
+- 📍 Based in India
+- ✅ Open to Frontend Developer, React Developer, Web Developer, Junior Full Stack Developer, and AI Automation roles
+
+---
+
+## 🛠️ Tech Stack
+
+### Frontend Development
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![React](https://img.shields.io/badge/React.js-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+### Backend & Database
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)
+
+### Tools & Workflow
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![GitHub Pages](https://img.shields.io/badge/GitHub_Pages-121013?style=for-the-badge&logo=github&logoColor=white)
+
+### AI & Automation
+![AI Tools](https://img.shields.io/badge/AI_Tools-111827?style=for-the-badge&logo=openai&logoColor=white)
+![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-6D28D9?style=for-the-badge)
+![Automation](https://img.shields.io/badge/Automation-0F766E?style=for-the-badge)
+
+---
+
+## 🚀 Featured Projects
+
+### 🌐 Developer Portfolio
+A responsive portfolio website showcasing my skills, projects, GitHub repositories, and live work.
+
+**Tech Stack:** HTML, CSS, JavaScript, GitHub Pages  
+**Live Demo:** https://ankitraj21805-lgtm.github.io/ankit_pixel/
+
+---
+
+### ⚡ JARVIS OS - AI Developer Command Center
+An AI-inspired developer dashboard focused on productivity, automation concepts, command-center UI, and modern frontend design.
+
+**Tech Stack:** HTML, CSS, JavaScript  
+**Live Demo:** https://ankitraj21805-lgtm.github.io/jarvis-os/
+
+---
+
+### 🤖 3D AI Avatar System
+An interactive AI/avatar web experience demonstrating creative frontend design, animations, and user interaction.
+
+**Tech Stack:** HTML, CSS, JavaScript  
+**Live Demo:** https://ankitraj21805-lgtm.github.io/ankit_3d_avatar/
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ankitraj21805-lgtm&show_icons=true&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=ankitraj21805-lgtm&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ankitraj21805-lgtm&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+## 🌐 Connect With Me
+
+<p align="left">
+  <a href="mailto:ankitraj21805@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+
+  <a href="https://www.linkedin.com/in/ankit-sharma-699b51317/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+
+  <a href="https://ankitraj21805-lgtm.github.io/ankit_pixel/">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=githubpages&logoColor=white" />
+  </a>
+</p>
+
+---
+
+## 🎯 Current Focus
+
+- Building stronger React.js and Next.js projects
+- Improving frontend UI/UX and responsive design skills
+- Learning full-stack development with Node.js, Express.js, MongoDB, PostgreSQL, and Prisma
+- Exploring AI automation, prompt engineering, and LLM-based workflow ideas
+
+---
+
+<p align="center">
+  <b>Building clean, useful, and recruiter-friendly projects with code, UI, and automation.</b>
+</p>
