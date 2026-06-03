@@ -59,7 +59,7 @@ I build fast, responsive, and modern web applications with clean UI, strong user
 A responsive portfolio website showcasing my skills, projects, GitHub repositories, and live work.
 
 **Tech Stack:** HTML, CSS, JavaScript, GitHub Pages  
-**Live Demo:** https://ankitraj21805-lgtm.github.io/ankit_pixel/
+**Live Demo:** https://ankitraj21805-lgtm.github.io/ankittsharmma/
 
 ---
 
@@ -75,7 +75,7 @@ An AI-inspired developer dashboard focused on productivity, automation concepts,
 An interactive AI/avatar web experience demonstrating creative frontend design, animations, and user interaction.
 
 **Tech Stack:** HTML, CSS, JavaScript  
-**Live Demo:** https://ankitraj21805-lgtm.github.io/ankit_3d_avatar/
+**Live Demo:** 
 
 ---
 
