@@ -81,17 +81,33 @@ An interactive AI/avatar web experience demonstrating creative frontend design, 
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ankitraj21805-lgtm&show_icons=true&theme=tokyonight&hide_border=true" alt="Ankit Sharma GitHub Stats" />
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ankitraj21805-lgtm&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</p>
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=ankitraj21805-lgtm&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" 
+    alt="Ankit Sharma GitHub Stats" 
+    width="48%" 
+  />
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ankitraj21805-lgtm&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</p>
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=ankitraj21805-lgtm&layout=compact&theme=tokyonight&hide_border=true" 
+    alt="Top Languages" 
+    width="48%" 
+  />
+
+</div>
+
+<br />
+
+<div align="center">
+
+  <img 
+    src="https://streak-stats.demolab.com?user=ankitraj21805-lgtm&theme=tokyonight&hide_border=true" 
+    alt="GitHub Streak" 
+    width="70%" 
+  />
+
+</div>
 
 ---
 
