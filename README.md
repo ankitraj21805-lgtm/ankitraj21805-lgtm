@@ -125,6 +125,7 @@ An interactive AI/avatar web experience demonstrating creative frontend design, 
 <p align="center">
   <b>Building clean, useful, and recruiter-friendly projects with code, UI, and automation.</b>
 </p>
+
 ![image alt](https://github.com/ankitraj21805-lgtm/ankitraj21805-lgtm/blob/main/ankitverse.png?raw=true)
 
 ![image alt](https://github.com/ankitraj21805-lgtm/ankitraj21805-lgtm/blob/main/screenshot.png?)
