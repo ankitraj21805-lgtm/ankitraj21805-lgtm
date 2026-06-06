@@ -84,31 +84,22 @@ An interactive AI/avatar web experience demonstrating creative frontend design, 
 <div align="center">
 
   <img 
-    src="https://github-readme-stats.vercel.app/api?username=ankitraj21805-lgtm&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" 
-    alt="Ankit Sharma GitHub Stats" 
-    width="48%" 
-  />
-
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=ankitraj21805-lgtm&layout=compact&theme=tokyonight&hide_border=true" 
-    alt="Top Languages" 
-    width="48%" 
+    src="https://streak-stats.demolab.com?user=ankitraj21805-lgtm&theme=tokyonight&hide_border=true" 
+    alt="GitHub Streak" 
+    width="75%" 
   />
 
 </div>
 
-<br />
+<br/>
 
 <div align="center">
 
-  <img 
-    src="https://streak-stats.demolab.com?user=ankitraj21805-lgtm&theme=tokyonight&hide_border=true" 
-    alt="GitHub Streak" 
-    width="70%" 
-  />
+  <img src="https://img.shields.io/badge/Public%20Repos-9-blue?style=for-the-badge&logo=github" />
+  <img src="https://img.shields.io/badge/Focus-Frontend%20%7C%20React%20%7C%20AI-blueviolet?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Projects-HireLens%20AI%20%7C%20Admin%20Dashboard-success?style=for-the-badge" />
 
 </div>
-
 ---
 
 ## 🌐 Connect With Me
