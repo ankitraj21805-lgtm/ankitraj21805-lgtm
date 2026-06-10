@@ -135,12 +135,3 @@ An interactive AI/avatar web experience demonstrating creative frontend design, 
 
 ![image alt](https://github.com/ankitraj21805-lgtm/ankitraj21805-lgtm/blob/main/ankitverse.png?raw=true)
 
-![image alt](https://github.com/ankitraj21805-lgtm/ankitraj21805-lgtm/blob/main/screenshot.png?)
-
-![image alt](https://github.com/ankitraj21805-lgtm/ankitraj21805-lgtm/blob/main/image.png?)
-
-![image alt](https://github.com/ankitraj21805-lgtm/ankitraj21805-lgtm/blob/main/project.png?raw=true)
-
-![image alt](https://github.com/ankitraj21805-lgtm/ankitraj21805-lgtm/blob/main/jarvis.png?raw=true)
-
-![image alt](https://github.com/ankitraj21805-lgtm/ankitraj21805-lgtm/blob/main/portfolio.png?raw=true)
