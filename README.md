@@ -114,13 +114,13 @@ Interactive AI/avatar web experience demonstrating creative frontend design, ani
 
 ## 🎓 Certificates & Virtual Experience
 
-| Certificate / Program | Organization | Focus Area | Link |
+| Certificate / Program | Platform / Issuer | Completed | Practical Work Covered |
 |---|---|---|---|
-| Full Stack Developer Virtual Experience | Deloitte | Full Stack Development | Add certificate link |
-| Virtual Experience Program | Tata | Technology / Business Project | Add certificate link |
-| Software Engineering Virtual Experience | JPMorgan Chase & Co. | Software Engineering | Add certificate link |
+| GenAI Powered Data Analytics Job Simulation | Forage | June 2026 | Exploratory data analysis, risk profiling, AI delinquency prediction, business reporting, data storytelling, AI-driven collections strategy |
+| Software Engineering Job Simulation | Forage | June 2026 | Project setup, Kafka integration, H2 integration, REST API integration, REST API controller |
+| Technology Job Simulation | Deloitte / Forage | June 2026 | Coding and development |
 
-> Send me your certificate URLs or screenshots and I will convert this section into clickable verified certificate links.
+> Certificate PDFs are available for verification and can be shared on request.
 
 ---
 
