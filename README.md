@@ -15,7 +15,7 @@ I build responsive frontends, backend APIs, full-stack dashboards, Python/FastAP
 
 ---
 
-## 👨‍💻 Professional Profile
+## 👨‍💻 ABOUT
 
 I am a project-driven **Frontend / Backend / Full Stack Developer** with a Computer Science Engineering background and hands-on experience building live web projects, API-based applications, dashboards, developer tools, and automation-focused systems.
 
