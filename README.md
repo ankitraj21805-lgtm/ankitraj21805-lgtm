@@ -1,33 +1,25 @@
 <h1 align="center">Hi, I'm Ankit Sharma 👋</h1>
 
-<h3 align="center">Frontend Developer | Backend API Developer | Junior Full Stack Developer | AI Automation Engineer</h3>
+<h3 align="center">Frontend Developer | Backend API Developer | Full Stack Developer | AI Automation Engineer</h3>
 
 <p align="center">
 I build responsive frontends, backend APIs, full-stack dashboards, Python/FastAPI projects, Next.js applications, REST API services, and automation-focused digital products.
 </p>
 
 <p align="center">
-  <a href="mailto:ankitraj21805@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/ankitsharma-frontend/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://ankitraj21805-lgtm.github.io/ankittsharmma/">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=githubpages&logoColor=white" />
-  </a>
-  <a href="https://verifyme-next-kudl-8s6kixffo-ankitraj21805-lgtms-projects.vercel.app/">
-    <img src="https://img.shields.io/badge/VerifyMe_Live-111827?style=for-the-badge&logo=vercel&logoColor=white" />
-  </a>
+  <a href="mailto:ankitraj21805@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/ankitsharma-frontend/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://ankitraj21805-lgtm.github.io/ankittsharmma/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=githubpages&logoColor=white" /></a>
+  <a href="https://verifyme-next-kudl-8s6kixffo-ankitraj21805-lgtms-projects.vercel.app/"><img src="https://img.shields.io/badge/VerifyMe_Live-111827?style=for-the-badge&logo=vercel&logoColor=white" /></a>
 </p>
 
 ---
 
 ## 👨‍💻 Professional Profile
 
-I am an entry-level, project-driven **Frontend / Backend / Full Stack Developer** with a Computer Science Engineering background and hands-on experience building live web projects, API-based applications, dashboards, developer tools, and automation-focused systems.
+I am a project-driven **Frontend / Backend / Full Stack Developer** with a Computer Science Engineering background and hands-on experience building live web projects, API-based applications, dashboards, developer tools, and automation-focused systems.
 
-My current focus is to become job-ready for **Frontend Developer, Backend API Developer, React Developer, Junior Full Stack Developer, Web Developer, and AI Automation Engineer** roles by building practical projects with real deployment, documentation, GitHub issues, and recruiter-friendly README files.
+My current focus is to become job-ready for **Frontend Developer, Backend API Developer, React Developer, Full Stack Developer, Web Developer, and AI Automation Engineer** roles by building practical projects with real deployment, documentation, GitHub issues, and recruiter-friendly README files.
 
 ---
 
@@ -36,7 +28,7 @@ My current focus is to become job-ready for **Frontend Developer, Backend API De
 - **Frontend Applications:** responsive websites, dashboards, portfolios, admin panels, landing pages, and interactive UI systems
 - **Backend/API Projects:** REST APIs, CRUD logic, database-backed apps, FastAPI services, Express.js APIs, and backend deployment workflows
 - **Full-Stack Products:** frontend + backend connected apps with service requests, dashboards, job tracking, profile analysis, and live deployment
-- **AI & Automation Tools:** AI-style dashboards, resume analyzers, prompt engineering workflows, automation logic, and developer productivity concepts
+- **AI & Automation Tools:** AI-style dashboards, prompt engineering workflows, automation logic, and developer productivity concepts
 - **GitHub-Ready Projects:** clean README files, live demos, issue roadmaps, project structure, topics, and deployment proof
 
 ---
@@ -50,7 +42,7 @@ My current focus is to become job-ready for **Frontend Developer, Backend API De
 | Database | SQLite, MongoDB Basics, PostgreSQL Basics, Prisma Concepts, Data Modeling Basics |
 | Deployment | GitHub Pages, Vercel, Render, Git/GitHub, Environment Setup, Live Project Hosting |
 | Tools | VS Code, Postman, Chrome DevTools, GitHub Issues, GitHub Projects, Debugging |
-| AI Automation | Prompt Engineering, LLM Workflows, AI Tools, Chatbot Concepts, Automation Logic |
+| AI Automation | Prompt Engineering, LLM Workflows, AI Tools, Automation Logic |
 
 ---
 
@@ -64,7 +56,6 @@ My current focus is to become job-ready for **Frontend Developer, Backend API De
 ![React](https://img.shields.io/badge/React.js-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Responsive Design](https://img.shields.io/badge/Responsive_UI-0F172A?style=for-the-badge)
 
 ### Backend Engineering
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -73,28 +64,14 @@ My current focus is to become job-ready for **Frontend Developer, Backend API De
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST_API-0F172A?style=for-the-badge)
 ![CRUD](https://img.shields.io/badge/CRUD_Operations-1E293B?style=for-the-badge)
-![API Integration](https://img.shields.io/badge/API_Integration-334155?style=for-the-badge)
 
-### Database & Data Layer
+### Database & Deployment
 ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB_Basics-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL_Basics-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma_Concepts-3982CE?style=for-the-badge&logo=prisma&logoColor=white)
-
-### Tools, DevOps & Deployment
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 ![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black)
-![GitHub Pages](https://img.shields.io/badge/GitHub_Pages-121013?style=for-the-badge&logo=github&logoColor=white)
-
-### AI & Automation
-![AI Tools](https://img.shields.io/badge/AI_Tools-111827?style=for-the-badge&logo=openai&logoColor=white)
-![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-6D28D9?style=for-the-badge)
-![LLM Workflows](https://img.shields.io/badge/LLM_Workflows-312E81?style=for-the-badge)
-![Automation](https://img.shields.io/badge/Automation-0F766E?style=for-the-badge)
 
 ---
 
@@ -140,7 +117,7 @@ A responsive React dashboard for project tracking, skill progress, GitHub improv
 ---
 
 ### 🧠 HireLens AI Resume Analyzer
-An AI-style resume analyzer and ATS optimizer concept for job seekers, resume improvement, job-fit signals, and recruiter-friendly suggestions.
+An AI-style resume analyzer concept for resume improvement, job-fit signals, and recruiter-friendly suggestions.
 
 **Role:** Frontend / AI Tools Developer  
 **Tech Stack:** HTML, CSS, JavaScript, AI Tools Concept  
@@ -158,28 +135,13 @@ A futuristic developer portfolio showcasing skills, live projects, GitHub reposi
 
 ---
 
-## 🧩 Additional Projects
-
-| Project | Type | Description |
-|---|---|---|
-| [JARVIS OS](https://github.com/ankitraj21805-lgtm/jarvis-os) | AI Dashboard UI | AI-inspired developer command center with automation-focused dashboard UI. |
-| [3D AI Avatar System](https://github.com/ankitraj21805-lgtm/ankit_3d_avatar) | Creative Frontend | Interactive 3D avatar web interface showcasing creative UI and animation. |
-| [Anniversary Site](https://github.com/ankitraj21805-lgtm/anniversary-site) | Creative Frontend | Animated anniversary website with album-style sections and responsive UI. |
-| [Madout Market](https://github.com/ankitraj21805-lgtm/madout-market) | Marketplace UI | Marketplace-style UI concept with product cards and e-commerce layout. |
-| [ankit_pixel](https://github.com/ankitraj21805-lgtm/ankit_pixel) | Archived Portfolio | Older portfolio version kept as development history. |
-| [ankit_portfolio](https://github.com/ankitraj21805-lgtm/ankit_portfolio) | Archived Portfolio | Older portfolio version kept as development history. |
-
----
-
 ## 🎓 Certificates & Virtual Experience
 
 | Certificate / Program | Platform / Issuer | Completed | Practical Work Covered |
 |---|---|---|---|
-| GenAI Powered Data Analytics Job Simulation | Forage | June 2026 | Exploratory data analysis, risk profiling, AI delinquency prediction, business reporting, data storytelling, AI-driven collections strategy |
+| GenAI Powered Data Analytics Job Simulation | Forage | June 2026 | Exploratory data analysis, risk profiling, AI prediction, business reporting, data storytelling, AI-driven strategy |
 | Software Engineering Job Simulation | Forage | June 2026 | Project setup, Kafka integration, H2 integration, REST API integration, REST API controller |
 | Technology Job Simulation | Deloitte / Forage | June 2026 | Coding and development |
-
-> Certificate PDFs are available for verification and can be shared on request.
 
 ---
 
@@ -190,10 +152,9 @@ I am actively preparing for:
 - Frontend Developer
 - React Developer
 - Backend API Developer
-- Junior Full Stack Developer
+- Full Stack Developer
 - Web Developer
 - AI Automation Engineer
-- Prompt Engineering / LLM Workflow Assistant roles
 
 ---
 
