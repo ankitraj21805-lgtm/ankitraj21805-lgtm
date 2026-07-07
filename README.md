@@ -1,9 +1,9 @@
 <h1 align="center">Ankit Sharma</h1>
 
-<h3 align="center">Full Stack Developer • Backend API Developer • React / Next.js Developer • AI Automation Builder</h3>
+<h3 align="center">Full-Stack Developer • React / Next.js • Backend APIs • AI Automation</h3>
 
 <p align="center">
-  I build production-style web applications, backend APIs, dashboards, developer tools, automation workflows, and deployable full-stack products with clean documentation and live demos.
+  I build deployable web products with clean UI, backend APIs, database workflows, automation logic, and recruiter-ready documentation.
 </p>
 
 <p align="center">
@@ -15,59 +15,38 @@
 
 ---
 
+## Recruiter Snapshot
+
+- **Target Roles:** Frontend Developer, React Developer, Full-Stack Developer, Backend API Developer, AI Automation Engineer
+- **Primary Stack:** React.js, Next.js, TypeScript, JavaScript, Node.js, Express.js, Python, FastAPI
+- **Database & Deployment:** PostgreSQL, SQLite, Drizzle ORM, Vercel, Render, Neon, GitHub Pages
+- **Strength:** Turning ideas into practical projects with clean dashboards, API workflows, live demos, and professional README documentation
+- **Location:** Bhopal, India
+
+---
+
 ## Professional Summary
 
-I am a **project-driven Full Stack Developer** focused on building practical, deployable software systems that combine frontend engineering, backend APIs, database workflows, automation logic, and clean GitHub documentation.
+I am a **project-driven Full-Stack Developer** focused on building practical software systems that combine frontend engineering, backend APIs, database workflows, automation logic, and clean GitHub presentation.
 
-My work includes **React dashboards, Next.js applications, Python/FastAPI projects, Express APIs, PostgreSQL-backed systems, GitHub analysis tools, resume intelligence products, job tracking platforms, and Streamlit data applications**.
-
-I position my GitHub as a proof-of-work portfolio: every major project is organized with a clear README, live deployment, API/backend structure, project purpose, and recruiter-friendly presentation.
+My GitHub is organized as a proof-of-work portfolio: every major project is positioned with a clear use case, technical stack, live deployment or repository proof, and documentation that helps recruiters quickly understand the value of the project.
 
 ---
 
 ## Engineering Focus
 
-- **Frontend Engineering:** React.js, Next.js, TypeScript, Tailwind CSS, responsive UI, dashboards, landing pages, admin panels
-- **Backend Engineering:** Node.js, Express.js, Python, FastAPI, REST APIs, CRUD systems, authentication flows, API integration
-- **Database & Data:** PostgreSQL, SQLite, Drizzle ORM, Prisma-ready architecture, schema design, data modeling, report generation
-- **Deployment & DevOps:** Vercel, Render, Streamlit Cloud, GitHub Pages, Git/GitHub, environment variables, production debugging
-- **AI & Automation:** Prompt engineering, AI-style scoring systems, resume analysis concepts, GitHub intelligence tools, workflow automation
-- **Documentation:** Professional README files, issue roadmaps, project descriptions, live demo links, technical architecture notes
+| Area | What I Build |
+|---|---|
+| **Frontend Engineering** | Responsive React/Next.js apps, dashboards, landing pages, admin panels, modern UI systems |
+| **Backend Engineering** | Node.js/Express APIs, Python/FastAPI services, CRUD systems, integrations, structured routes |
+| **Database Workflows** | PostgreSQL, SQLite, Drizzle ORM, schema design, data modeling, practical storage flows |
+| **Deployment** | Vercel, Render, Neon, Streamlit Cloud, GitHub Pages, environment setup, production debugging |
+| **AI & Automation** | Resume intelligence, GitHub scoring tools, prompt workflows, automation-first dashboards |
+| **Documentation** | Professional README files, project roadmaps, setup steps, live demo proof, architecture notes |
 
 ---
 
-## Core Tech Stack
-
-<table>
-<tr>
-<td><b>Frontend</b></td>
-<td>React.js, Next.js, TypeScript, JavaScript ES6+, HTML5, CSS3, Tailwind CSS, Vite, Responsive UI</td>
-</tr>
-<tr>
-<td><b>Backend</b></td>
-<td>Node.js, Express.js, Python, FastAPI, REST API Design, CRUD, Authentication, API Routing</td>
-</tr>
-<tr>
-<td><b>Database</b></td>
-<td>PostgreSQL, SQLite, Drizzle ORM, Prisma-ready structure, database schema design</td>
-</tr>
-<tr>
-<td><b>Deployment</b></td>
-<td>Vercel, Render, Streamlit Cloud, GitHub Pages, GitHub Actions concepts, environment configuration</td>
-</tr>
-<tr>
-<td><b>Tools</b></td>
-<td>Git, GitHub, Postman, Chrome DevTools, VS Code, Replit, Neon, Supabase concepts</td>
-</tr>
-<tr>
-<td><b>AI / Automation</b></td>
-<td>Prompt engineering, AI workflows, resume scoring logic, GitHub scoring logic, automation-first dashboards</td>
-</tr>
-</table>
-
----
-
-## Technology Badges
+## Tech Stack
 
 <p>
   <img src="https://img.shields.io/badge/React.js-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
@@ -83,39 +62,37 @@ I position my GitHub as a proof-of-work portfolio: every major project is organi
   <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" />
   <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
   <img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black" />
-  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white" />
 </p>
 
 ---
 
-## Featured Engineering Projects
+## Featured Projects
 
-| Project | Type | Stack | Live / Repository |
+| Project | Category | Stack | Live / Repository |
 |---|---|---|---|
 | **HireForge AI** | Career intelligence & recruitment operating system | React, Vite, TypeScript, Express, PostgreSQL, Drizzle, Vercel, Render, Neon | [Live](https://hireforge-ai-hireforge-ai-nu.vercel.app) • [Repo](https://github.com/ankitraj21805-lgtm/hireforge-ai) |
-| **VerifyMe Next** | Full-stack service platform for student and gaming workflows | Next.js, React, API routes, Vercel deployment | [Live](https://verifyme-next-kudl-8s6kixffo-ankitraj21805-lgtms-projects.vercel.app/) • [Repo](https://github.com/ankitraj21805-lgtm/verifyme-next) |
-| **Python Full Stack Job Tracker** | Job tracking platform with backend APIs and frontend dashboard | Python, FastAPI, SQLite, HTML, CSS, JavaScript | [Repo](https://github.com/ankitraj21805-lgtm/python-fullstack-job-tracker) |
-| **GitHub Profile Analyzer REST API** | Developer profile scoring and GitHub intelligence API | Node.js, Express.js, REST API, GitHub API, Axios | [Repo](https://github.com/ankitraj21805-lgtm/github-profile-analyzer-rest-api) |
-| **React Admin Dashboard** | Responsive project management and analytics dashboard | React.js, Vite, JavaScript, CSS | [Live](https://react-admin-dashboard-2q9e.vercel.app/) • [Repo](https://github.com/ankitraj21805-lgtm/react-admin-dashboard) |
-| **HireLens AI Resume Analyzer** | Resume improvement and job-fit analysis concept | HTML, CSS, JavaScript, AI workflow logic | [Repo](https://github.com/ankitraj21805-lgtm/hirelens-ai-resume-analyzer) |
-| **MockFlow Finance Simulator** | Safe finance analytics simulator with CSV/HTML sample export | Python, Streamlit, data simulation | [Repo](https://github.com/ankitraj21805-lgtm/sbi-generator) |
-| **Developer Portfolio** | Personal portfolio and GitHub project showcase | HTML, CSS, JavaScript, GitHub Pages | [Live](https://ankitraj21805-lgtm.github.io/ankittsharmma/) • [Repo](https://github.com/ankitraj21805-lgtm/ankittsharmma) |
+| **VerifyMe Next** | Full-stack service platform for student and gaming workflows | Next.js, React, API routes, Vercel | [Live](https://verifyme-next-kudl-8s6kixffo-ankitraj21805-lgtms-projects.vercel.app/) • [Repo](https://github.com/ankitraj21805-lgtm/verifyme-next) |
+| **React Admin Dashboard** | Responsive dashboard and frontend UI project | React.js, Vite, JavaScript, CSS | [Live](https://react-admin-dashboard-2q9e.vercel.app/) • [Repo](https://github.com/ankitraj21805-lgtm/react-admin-dashboard) |
+| **GitHub Profile Analyzer REST API** | Backend API and developer intelligence tool | Node.js, Express.js, REST API, GitHub API | [Repo](https://github.com/ankitraj21805-lgtm/github-profile-analyzer-rest-api) |
+| **Python Full Stack Job Tracker** | Job tracking app with CRUD backend | Python, FastAPI, SQLite, HTML, CSS, JavaScript | [Repo](https://github.com/ankitraj21805-lgtm/python-fullstack-job-tracker) |
+| **HireLens AI Resume Analyzer** | Resume analysis and ATS improvement concept | HTML, CSS, JavaScript, AI workflow logic | [Repo](https://github.com/ankitraj21805-lgtm/hirelens-ai-resume-analyzer) |
+| **Developer Portfolio** | Personal portfolio and project showcase | HTML, CSS, JavaScript, GitHub Pages | [Live](https://ankitraj21805-lgtm.github.io/ankittsharmma/) • [Repo](https://github.com/ankitraj21805-lgtm/ankittsharmma) |
 
 ---
 
-## Project Portfolio Strategy
+## Portfolio Positioning
 
-My GitHub is organized around practical software categories:
+My project portfolio is built around real hiring signals:
 
-| Category | Repositories |
+| Hiring Signal | Proof on GitHub |
 |---|---|
-| **Full Stack Products** | HireForge AI, VerifyMe Next, Python Full Stack Job Tracker |
-| **Backend / API Engineering** | GitHub Profile Analyzer REST API, FastAPI job tracker, Express API services |
-| **Frontend Dashboards** | React Admin Dashboard, portfolio systems, landing pages |
-| **AI & Career Tools** | HireLens AI Resume Analyzer, HireForge AI, GitHub analysis workflows |
-| **Data / Streamlit Apps** | MockFlow Finance Simulator, CSV/HTML report generators |
-| **Portfolio / Brand Presence** | ankitraj21805-lgtm profile README, ankittsharmma portfolio |
+| **Frontend Skill** | React dashboard, responsive UI, portfolio pages, landing pages |
+| **Backend/API Skill** | Express REST API, FastAPI CRUD backend, GitHub API integration |
+| **Full-Stack Thinking** | Authentication flows, database-backed apps, dashboards, deployment structure |
+| **AI/Automation Interest** | Resume analyzer, GitHub scoring, career intelligence workflows |
+| **Deployment Proof** | Vercel, Render, GitHub Pages, live demos and API endpoints |
+| **Documentation Quality** | README files, setup steps, roadmaps, tech stacks, project explanations |
 
 ---
 
@@ -129,16 +106,13 @@ My GitHub is organized around practical software categories:
 
 ---
 
-## Current Role Target
+## Current Build Focus
 
-I am focused on opportunities aligned with:
-
-- Frontend Developer
-- React Developer
-- Backend API Developer
-- Full Stack Developer
-- Web Developer
-- AI Automation Engineer
+- Strengthening **HireForge AI** as a flagship full-stack project
+- Building stronger React/Next.js dashboards with clean UI and reusable components
+- Expanding backend projects with Node.js, Express.js, Python, FastAPI, PostgreSQL, and SQLite
+- Improving every important repo with screenshots, live demo links, setup commands, and roadmap sections
+- Exploring AI automation, resume intelligence, GitHub analytics, and job-search workflow tools
 
 ---
 
@@ -162,16 +136,6 @@ I am focused on opportunities aligned with:
 
 ---
 
-## Current Build Focus
-
-- Strengthening **HireForge AI** as a full-stack flagship project
-- Expanding backend API work with Node.js, Express.js, Python, and FastAPI
-- Improving database-backed workflows with PostgreSQL, SQLite, Drizzle, and Prisma-ready structures
-- Building recruiter-ready projects with professional README files, live demos, issues, deployment proof, and clean repository structure
-- Exploring AI automation, resume intelligence, GitHub analytics, and practical workflow tools
-
----
-
 ## Connect
 
 - Email: [ankitraj21805@gmail.com](mailto:ankitraj21805@gmail.com)
@@ -183,5 +147,5 @@ I am focused on opportunities aligned with:
 ---
 
 <p align="center">
-  <b>Building deployable full-stack products with frontend UI, backend APIs, database workflows, automation logic, and production-style documentation.</b>
+  <b>Building practical full-stack products with frontend UI, backend APIs, database workflows, automation logic, and professional documentation.</b>
 </p>
